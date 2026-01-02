@@ -1,0 +1,38 @@
+# 📊 LeetCode Stats Tracker
+
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-2dDL22yGeV-orange?style=for-the-badge&logo=leetcode)
+
+## 🏆 Profile Statistics
+
+| Metric | Value |
+|--------|-------|
+| 👤 **Username** | [2dDL22yGeV](https://leetcode.com/2dDL22yGeV/) |
+| 🏅 **Ranking** | #4,087,993 |
+| ✅ **Total Solved** | **19** |
+
+## 📈 Problem Solving Progress
+
+| Difficulty | Solved | Progress |
+|------------|--------|----------|
+| 🟢 Easy | 13 | `░░░░░░░░░░░░░░░░░░░░` 1.6% |
+| 🟡 Medium | 5 | `░░░░░░░░░░░░░░░░░░░░` 0.3% |
+| 🔴 Hard | 1 | `░░░░░░░░░░░░░░░░░░░░` 0.1% |
+
+## 🎯 Contest Statistics
+
+| Metric | Value |
+|--------|-------|
+| 📊 **Contest Rating** | N/A |
+| 🎪 **Contests Attended** | N/A |
+| 📍 **Top Percentage** | N/A |
+
+---
+
+<p align="center">
+  <i>🤖 This README is automatically updated daily via GitHub Actions</i><br>
+  <sub>Last updated: 2026-01-02 15:25:28 UTC</sub>
+</p>
+
+<!-- LEETCODE_STATS_START -->
+<!-- Auto-generated content - Do not edit manually -->
+<!-- LEETCODE_STATS_END -->
