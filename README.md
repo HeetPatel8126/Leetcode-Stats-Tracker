@@ -1,13 +1,13 @@
 # 📊 LeetCode Stats Tracker
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-2dDL22yGeV-orange?style=for-the-badge&logo=leetcode)
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-HeetPatel8126-orange?style=for-the-badge&logo=leetcode)
 
 ## 🏆 Profile Statistics
 
 | Metric | Value |
 |--------|-------|
-| 👤 **Username** | [2dDL22yGeV](https://leetcode.com/2dDL22yGeV/) |
-| 🏅 **Ranking** | #3,374,998 |
+| 👤 **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
+| 🏅 **Ranking** | #3,378,783 |
 | ✅ **Total Solved** | **30** |
 
 ## 📈 Problem Solving Progress
@@ -30,7 +30,7 @@
 
 <p align="center">
   <i>🤖 This README is automatically updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-05-25 02:48:30 UTC</sub>
+  <sub>Last updated: 2026-05-27 04:27:48 UTC</sub>
 </p>
 
 <!-- LEETCODE_STATS_START -->
