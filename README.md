@@ -7,7 +7,7 @@
 | Metric | Value |
 |--------|-------|
 | 👤 **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| 🏅 **Ranking** | #3,386,020 |
+| 🏅 **Ranking** | #3,387,563 |
 | ✅ **Total Solved** | **30** |
 
 ## 📈 Problem Solving Progress
@@ -30,7 +30,7 @@
 
 <p align="center">
   <i>🤖 This README is automatically updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-05-31 02:49:27 UTC</sub>
+  <sub>Last updated: 2026-06-01 02:57:53 UTC</sub>
 </p>
 
 <!-- LEETCODE_STATS_START -->
