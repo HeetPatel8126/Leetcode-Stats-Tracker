@@ -7,15 +7,15 @@
 | Metric | Value |
 |--------|-------|
 | 👤 **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| 🏅 **Ranking** | #2,350,631 |
-| ✅ **Total Solved** | **57** |
+| 🏅 **Ranking** | #2,324,837 |
+| ✅ **Total Solved** | **58** |
 
 ## 📈 Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
 | 🟢 Easy | 28 | `░░░░░░░░░░░░░░░░░░░░` 3.4% |
-| 🟡 Medium | 24 | `░░░░░░░░░░░░░░░░░░░░` 1.4% |
+| 🟡 Medium | 25 | `░░░░░░░░░░░░░░░░░░░░` 1.4% |
 | 🔴 Hard | 5 | `░░░░░░░░░░░░░░░░░░░░` 0.7% |
 
 ## 🎯 Contest Statistics
@@ -30,7 +30,7 @@
 
 <p align="center">
   <i>🤖 This README is automatically updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-06-14 02:57:23 UTC</sub>
+  <sub>Last updated: 2026-06-15 03:31:12 UTC</sub>
 </p>
 
 <!-- LEETCODE_STATS_START -->
