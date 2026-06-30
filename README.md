@@ -52,6 +52,12 @@
 | 4 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | Python | Jun 27, 2026 |
 | 5 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Python | Jun 26, 2026 |
 
+## Badges
+
+<p align="center">
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-6.png" alt="Jun LeetCoding Challenge" width="80" title="Jun LeetCoding Challenge (2026-06-30)"/>
+</p>
+
 ---
 
 <p align="center">
@@ -60,7 +66,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-06-30 07:35:11 UTC</sub>
+  <sub>Last updated: 2026-06-30 07:38:49 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)

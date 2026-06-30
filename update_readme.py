@@ -77,6 +77,11 @@ query getUserProfile($username: String!) {
             streak
             totalActiveDays
         }
+        badges {
+            displayName
+            icon
+            creationDate
+        }
     }
     recentAcSubmissionList(username: $username, limit: 5) {
         title
@@ -192,6 +197,7 @@ def parse_stats(data: dict[str, Any]) -> dict[str, Any]:
         "contests_attended": "N/A",
         "top_percentage": "N/A",
         "recent_submissions": [],
+        "badges": [],
     }
 
     # Solved counts per difficulty
@@ -226,6 +232,17 @@ def parse_stats(data: dict[str, Any]) -> dict[str, Any]:
         stats["top_percentage"] = f"{round(top_pct, 2)}%" if top_pct else "N/A"
 
     # Recent accepted submissions
+    # Badges
+    for badge in (user.get("badges") or []):
+        icon = badge.get("icon", "")
+        if icon and not icon.startswith("http"):
+            icon = f"https://leetcode.com{icon}"
+        stats["badges"].append({
+            "name": badge.get("displayName", "Badge"),
+            "icon": icon,
+            "date": badge.get("creationDate", ""),
+        })
+
     for sub in recent[:RECENT_AC_LIMIT]:
         stats["recent_submissions"].append({
             "title": sub.get("title", "Unknown"),
@@ -320,6 +337,23 @@ def generate_readme_content(stats: dict[str, Any]) -> str:
         f'| **Top Percentage** | {stats["top_percentage"]} |\n\n'
     )
 
+    # Badges section
+    badges_section = ""
+    if stats["badges"]:
+        badge_images = ""
+        for b in stats["badges"]:
+            badge_images += (
+                f'  <img src="{b["icon"]}" '
+                f'alt="{b["name"]}" width="80" '
+                f'title="{b["name"]} ({b["date"]})"/>\n'
+            )
+        badges_section = (
+            "## Badges\n\n"
+            "<p align=\"center\">\n"
+            f"{badge_images}"
+            "</p>\n\n"
+        )
+
     # LeetCard badge
     leetcard = (
         f'<p align="center">\n'
@@ -364,6 +398,7 @@ def generate_readme_content(stats: dict[str, Any]) -> str:
         f"{streak_section}"
         f"{contest_section}"
         f"{recent_section}"
+        f"{badges_section}"
         "---\n"
         "\n"
         f"{leetcard}"
