@@ -77,13 +77,13 @@ query getUserProfile($username: String!) {
             streak
             totalActiveDays
         }
-        recentAcSubmissionList(limit: 5) {
-            title
-            titleSlug
-            timestamp
-            statusDisplay
-            lang
-        }
+    }
+    recentAcSubmissionList(username: $username, limit: 5) {
+        title
+        titleSlug
+        timestamp
+        statusDisplay
+        lang
     }
     userContestRanking(username: $username) {
         attendedContestsCount
@@ -167,7 +167,7 @@ def parse_stats(data: dict[str, Any]) -> dict[str, Any]:
     submit_stats = (user.get("submitStats") or {}).get("acSubmissionNum") or []
     total_submit = (user.get("submitStats") or {}).get("totalSubmissionNum") or []
     calendar = user.get("userCalendar") or {}
-    recent = user.get("recentAcSubmissionList") or []
+    recent = data.get("recentAcSubmissionList") or []
 
     # Dynamic question totals from the API
     question_totals: dict[str, int] = {}
