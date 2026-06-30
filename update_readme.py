@@ -403,11 +403,7 @@ def update_readme(content: str, filepath: str = "README.md") -> None:
 # ---------------------------------------------------------------------------
 def main() -> int:
     """Main entry point for the LeetCode stats tracker."""
-    username = os.environ.get("LEETCODE_USERNAME", DEFAULT_USERNAME)
-
-    if not username:
-        log.error("LEETCODE_USERNAME is empty and no default is set")
-        return 1
+    username = os.environ.get("LEETCODE_USERNAME") or DEFAULT_USERNAME
 
     log.info("Fetching LeetCode stats for: %s", username)
 
