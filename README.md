@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-97_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-83.3%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-98_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-83.5%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,24 +15,24 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,645,283 |
-| **Total Solved** | **97** / 3,991 |
-| **Acceptance Rate** | **83.3%** |
+| **Ranking** | #1,620,795 |
+| **Total Solved** | **98** / 3,995 |
+| **Acceptance Rate** | **83.5%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 36 | `░░░░░░░░░░░░░░░░░░░░` 36/954 (3.8%) |
-| 🟡 Medium | 45 | `░░░░░░░░░░░░░░░░░░░░` 45/2,084 (2.2%) |
-| 🔴 Hard | 16 | `░░░░░░░░░░░░░░░░░░░░` 16/953 (1.7%) |
+| 🟢 Easy | 37 | `░░░░░░░░░░░░░░░░░░░░` 37/955 (3.9%) |
+| 🟡 Medium | 45 | `░░░░░░░░░░░░░░░░░░░░` 45/2,086 (2.2%) |
+| 🔴 Hard | 16 | `░░░░░░░░░░░░░░░░░░░░` 16/954 (1.7%) |
 
 ## Activity & Streaks
 
 | Metric | Value |
 |--------|-------|
-| **Current Streak** | **47** days |
-| **Total Active Days** | **66** |
+| **Current Streak** | **48** days |
+| **Total Active Days** | **67** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Python | Jul 17, 2026 |
-| 2 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Python | Jul 16, 2026 |
-| 3 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Python | Jul 15, 2026 |
-| 4 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Python | Jul 14, 2026 |
-| 5 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python | Jul 13, 2026 |
+| 1 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Python | Jul 18, 2026 |
+| 2 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Python | Jul 17, 2026 |
+| 3 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Python | Jul 16, 2026 |
+| 4 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Python | Jul 15, 2026 |
+| 5 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Python | Jul 14, 2026 |
 
 ## Badges
 
@@ -67,7 +67,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-07-18 01:51:54 UTC</sub>
+  <sub>Last updated: 2026-07-19 02:02:48 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
