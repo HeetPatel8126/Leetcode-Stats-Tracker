@@ -15,7 +15,7 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,484,353 |
+| **Ranking** | #1,462,821 |
 | **Total Solved** | **112** / 4,005 |
 | **Acceptance Rate** | **83.7%** |
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-07-31 02:07:41 UTC</sub>
+  <sub>Last updated: 2026-08-01 02:09:24 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
