@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-112_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-83.7%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-116_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-79.0%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,24 +15,24 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,462,821 |
-| **Total Solved** | **112** / 4,005 |
-| **Acceptance Rate** | **83.7%** |
+| **Ranking** | #1,463,936 |
+| **Total Solved** | **116** / 4,009 |
+| **Acceptance Rate** | **79.0%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 42 | `░░░░░░░░░░░░░░░░░░░░` 42/956 (4.4%) |
-| 🟡 Medium | 52 | `░░░░░░░░░░░░░░░░░░░░` 52/2,091 (2.5%) |
-| 🔴 Hard | 18 | `░░░░░░░░░░░░░░░░░░░░` 18/958 (1.9%) |
+| 🟢 Easy | 43 | `░░░░░░░░░░░░░░░░░░░░` 43/957 (4.5%) |
+| 🟡 Medium | 54 | `░░░░░░░░░░░░░░░░░░░░` 54/2,093 (2.6%) |
+| 🔴 Hard | 19 | `░░░░░░░░░░░░░░░░░░░░` 19/959 (2.0%) |
 
 ## Activity & Streaks
 
 | Metric | Value |
 |--------|-------|
-| **Current Streak** | **61** days |
-| **Total Active Days** | **80** |
+| **Current Streak** | **62** days |
+| **Total Active Days** | **81** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Python | Jul 31, 2026 |
-| 2 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Python | Jul 30, 2026 |
-| 3 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Python | Jul 29, 2026 |
-| 4 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Python | Jul 28, 2026 |
-| 5 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Python | Jul 27, 2026 |
+| 1 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | Python | Aug 01, 2026 |
+| 2 | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | Python | Aug 01, 2026 |
+| 3 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | Python | Aug 01, 2026 |
+| 4 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Python | Aug 01, 2026 |
+| 5 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Python | Jul 31, 2026 |
 
 ## Badges
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-01 02:09:24 UTC</sub>
+  <sub>Last updated: 2026-08-02 02:05:50 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
