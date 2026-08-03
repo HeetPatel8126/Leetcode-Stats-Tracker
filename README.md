@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-116_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-79.0%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-117_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-79.2%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,24 +15,24 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,463,936 |
-| **Total Solved** | **116** / 4,009 |
-| **Acceptance Rate** | **79.0%** |
+| **Ranking** | #1,421,011 |
+| **Total Solved** | **117** / 4,013 |
+| **Acceptance Rate** | **79.2%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 43 | `░░░░░░░░░░░░░░░░░░░░` 43/957 (4.5%) |
-| 🟡 Medium | 54 | `░░░░░░░░░░░░░░░░░░░░` 54/2,093 (2.6%) |
-| 🔴 Hard | 19 | `░░░░░░░░░░░░░░░░░░░░` 19/959 (2.0%) |
+| 🟢 Easy | 43 | `░░░░░░░░░░░░░░░░░░░░` 43/958 (4.5%) |
+| 🟡 Medium | 55 | `░░░░░░░░░░░░░░░░░░░░` 55/2,095 (2.6%) |
+| 🔴 Hard | 19 | `░░░░░░░░░░░░░░░░░░░░` 19/960 (2.0%) |
 
 ## Activity & Streaks
 
 | Metric | Value |
 |--------|-------|
-| **Current Streak** | **62** days |
-| **Total Active Days** | **81** |
+| **Current Streak** | **63** days |
+| **Total Active Days** | **82** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | Python | Aug 01, 2026 |
-| 2 | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | Python | Aug 01, 2026 |
-| 3 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | Python | Aug 01, 2026 |
-| 4 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Python | Aug 01, 2026 |
-| 5 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Python | Jul 31, 2026 |
+| 1 | [Stone Game](https://leetcode.com/problems/stone-game/) | Python | Aug 02, 2026 |
+| 2 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | Python | Aug 01, 2026 |
+| 3 | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | Python | Aug 01, 2026 |
+| 4 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | Python | Aug 01, 2026 |
+| 5 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Python | Aug 01, 2026 |
 
 ## Badges
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-02 02:05:50 UTC</sub>
+  <sub>Last updated: 2026-08-03 02:08:12 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
