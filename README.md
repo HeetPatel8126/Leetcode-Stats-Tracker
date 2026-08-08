@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-121_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-79.7%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-122_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-79.8%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,384,616 |
-| **Total Solved** | **121** / 4,013 |
-| **Acceptance Rate** | **79.7%** |
+| **Ranking** | #1,375,330 |
+| **Total Solved** | **122** / 4,013 |
+| **Acceptance Rate** | **79.8%** |
 
 ## Problem Solving Progress
 
@@ -25,14 +25,14 @@
 |------------|--------|----------|
 | 🟢 Easy | 45 | `░░░░░░░░░░░░░░░░░░░░` 45/958 (4.7%) |
 | 🟡 Medium | 56 | `░░░░░░░░░░░░░░░░░░░░` 56/2,095 (2.7%) |
-| 🔴 Hard | 20 | `░░░░░░░░░░░░░░░░░░░░` 20/960 (2.1%) |
+| 🔴 Hard | 21 | `░░░░░░░░░░░░░░░░░░░░` 21/960 (2.2%) |
 
 ## Activity & Streaks
 
 | Metric | Value |
 |--------|-------|
-| **Current Streak** | **67** days |
-| **Total Active Days** | **86** |
+| **Current Streak** | **68** days |
+| **Total Active Days** | **87** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Python | Aug 06, 2026 |
-| 2 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | Python | Aug 05, 2026 |
-| 3 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Python | Aug 04, 2026 |
-| 4 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Python | Aug 03, 2026 |
-| 5 | [Stone Game](https://leetcode.com/problems/stone-game/) | Python | Aug 02, 2026 |
+| 1 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Python | Aug 07, 2026 |
+| 2 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Python | Aug 06, 2026 |
+| 3 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | Python | Aug 05, 2026 |
+| 4 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Python | Aug 04, 2026 |
+| 5 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Python | Aug 03, 2026 |
 
 ## Badges
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-07 02:19:31 UTC</sub>
+  <sub>Last updated: 2026-08-08 01:05:37 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
