@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-128_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-80.4%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-129_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-80.6%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,15 +15,15 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,322,994 |
-| **Total Solved** | **128** / 4,019 |
-| **Acceptance Rate** | **80.4%** |
+| **Ranking** | #1,314,369 |
+| **Total Solved** | **129** / 4,019 |
+| **Acceptance Rate** | **80.6%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 46 | `░░░░░░░░░░░░░░░░░░░░` 46/958 (4.8%) |
+| 🟢 Easy | 47 | `░░░░░░░░░░░░░░░░░░░░` 47/958 (4.9%) |
 | 🟡 Medium | 59 | `░░░░░░░░░░░░░░░░░░░░` 59/2,099 (2.8%) |
 | 🔴 Hard | 23 | `░░░░░░░░░░░░░░░░░░░░` 23/962 (2.4%) |
 
@@ -31,8 +31,8 @@
 
 | Metric | Value |
 |--------|-------|
-| **Current Streak** | **74** days |
-| **Total Active Days** | **93** |
+| **Current Streak** | **75** days |
+| **Total Active Days** | **94** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | Python | Aug 13, 2026 |
-| 2 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Python | Aug 12, 2026 |
-| 3 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | Aug 11, 2026 |
-| 4 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Python | Aug 10, 2026 |
-| 5 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Python | Aug 09, 2026 |
+| 1 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Python | Aug 14, 2026 |
+| 2 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | Python | Aug 13, 2026 |
+| 3 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Python | Aug 12, 2026 |
+| 4 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | Aug 11, 2026 |
+| 5 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Python | Aug 10, 2026 |
 
 ## Badges
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-14 01:19:36 UTC</sub>
+  <sub>Last updated: 2026-08-15 00:51:17 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
