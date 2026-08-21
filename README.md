@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-134_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-80.6%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-135_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-80.7%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,15 +15,15 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,273,491 |
-| **Total Solved** | **134** / 4,029 |
-| **Acceptance Rate** | **80.6%** |
+| **Ranking** | #1,265,769 |
+| **Total Solved** | **135** / 4,029 |
+| **Acceptance Rate** | **80.7%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 48 | `█░░░░░░░░░░░░░░░░░░░` 48/960 (5.0%) |
+| 🟢 Easy | 49 | `█░░░░░░░░░░░░░░░░░░░` 49/960 (5.1%) |
 | 🟡 Medium | 62 | `░░░░░░░░░░░░░░░░░░░░` 62/2,103 (2.9%) |
 | 🔴 Hard | 24 | `░░░░░░░░░░░░░░░░░░░░` 24/966 (2.5%) |
 
@@ -31,8 +31,8 @@
 
 | Metric | Value |
 |--------|-------|
-| **Current Streak** | **80** days |
-| **Total Active Days** | **99** |
+| **Current Streak** | **81** days |
+| **Total Active Days** | **100** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Python | Aug 19, 2026 |
-| 2 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python | Aug 18, 2026 |
-| 3 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | Python | Aug 17, 2026 |
-| 4 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Python | Aug 16, 2026 |
-| 5 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Python | Aug 15, 2026 |
+| 1 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | Aug 20, 2026 |
+| 2 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Python | Aug 19, 2026 |
+| 3 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python | Aug 18, 2026 |
+| 4 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | Python | Aug 17, 2026 |
+| 5 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Python | Aug 16, 2026 |
 
 ## Badges
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-20 00:50:55 UTC</sub>
+  <sub>Last updated: 2026-08-21 00:54:38 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
