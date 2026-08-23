@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-136_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-80.9%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-137_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-81.0%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,15 +15,15 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,257,840 |
-| **Total Solved** | **136** / 4,029 |
-| **Acceptance Rate** | **80.9%** |
+| **Ranking** | #1,250,007 |
+| **Total Solved** | **137** / 4,029 |
+| **Acceptance Rate** | **81.0%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 49 | `█░░░░░░░░░░░░░░░░░░░` 49/960 (5.1%) |
+| 🟢 Easy | 50 | `█░░░░░░░░░░░░░░░░░░░` 50/960 (5.2%) |
 | 🟡 Medium | 62 | `░░░░░░░░░░░░░░░░░░░░` 62/2,103 (2.9%) |
 | 🔴 Hard | 25 | `░░░░░░░░░░░░░░░░░░░░` 25/966 (2.6%) |
 
@@ -31,8 +31,8 @@
 
 | Metric | Value |
 |--------|-------|
-| **Current Streak** | **82** days |
-| **Total Active Days** | **101** |
+| **Current Streak** | **83** days |
+| **Total Active Days** | **102** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Python | Aug 21, 2026 |
-| 2 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | Aug 20, 2026 |
-| 3 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Python | Aug 19, 2026 |
-| 4 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python | Aug 18, 2026 |
-| 5 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | Python | Aug 17, 2026 |
+| 1 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Python | Aug 22, 2026 |
+| 2 | [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Python | Aug 21, 2026 |
+| 3 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python | Aug 20, 2026 |
+| 4 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Python | Aug 19, 2026 |
+| 5 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python | Aug 18, 2026 |
 
 ## Badges
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-22 00:50:56 UTC</sub>
+  <sub>Last updated: 2026-08-23 00:55:02 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
