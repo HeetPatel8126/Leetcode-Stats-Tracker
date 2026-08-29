@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-142_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-81.4%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-144_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-81.6%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,24 +15,24 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,212,435 |
-| **Total Solved** | **142** / 4,033 |
-| **Acceptance Rate** | **81.4%** |
+| **Ranking** | #1,205,033 |
+| **Total Solved** | **144** / 4,033 |
+| **Acceptance Rate** | **81.6%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
 | 🟢 Easy | 51 | `█░░░░░░░░░░░░░░░░░░░` 51/961 (5.3%) |
-| 🟡 Medium | 65 | `░░░░░░░░░░░░░░░░░░░░` 65/2,105 (3.1%) |
-| 🔴 Hard | 26 | `░░░░░░░░░░░░░░░░░░░░` 26/967 (2.7%) |
+| 🟡 Medium | 66 | `░░░░░░░░░░░░░░░░░░░░` 66/2,105 (3.1%) |
+| 🔴 Hard | 27 | `░░░░░░░░░░░░░░░░░░░░` 27/967 (2.8%) |
 
 ## Activity & Streaks
 
 | Metric | Value |
 |--------|-------|
 | **Current Streak** | **88** days |
-| **Total Active Days** | **107** |
+| **Total Active Days** | **108** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | Python | Aug 27, 2026 |
-| 2 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Python | Aug 26, 2026 |
-| 3 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Python | Aug 25, 2026 |
-| 4 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | Python | Aug 24, 2026 |
-| 5 | [Sum Game](https://leetcode.com/problems/sum-game/) | Python | Aug 23, 2026 |
+| 1 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Python | Aug 29, 2026 |
+| 2 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | Python | Aug 29, 2026 |
+| 3 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | Python | Aug 27, 2026 |
+| 4 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Python | Aug 26, 2026 |
+| 5 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Python | Aug 25, 2026 |
 
 ## Badges
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-28 08:26:27 UTC</sub>
+  <sub>Last updated: 2026-08-29 05:06:35 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
