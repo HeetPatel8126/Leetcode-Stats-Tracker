@@ -15,8 +15,8 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,205,033 |
-| **Total Solved** | **144** / 4,033 |
+| **Ranking** | #1,189,745 |
+| **Total Solved** | **144** / 4,037 |
 | **Acceptance Rate** | **81.6%** |
 
 ## Problem Solving Progress
@@ -24,8 +24,8 @@
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
 | 🟢 Easy | 51 | `█░░░░░░░░░░░░░░░░░░░` 51/961 (5.3%) |
-| 🟡 Medium | 66 | `░░░░░░░░░░░░░░░░░░░░` 66/2,105 (3.1%) |
-| 🔴 Hard | 27 | `░░░░░░░░░░░░░░░░░░░░` 27/967 (2.8%) |
+| 🟡 Medium | 66 | `░░░░░░░░░░░░░░░░░░░░` 66/2,107 (3.1%) |
+| 🔴 Hard | 27 | `░░░░░░░░░░░░░░░░░░░░` 27/969 (2.8%) |
 
 ## Activity & Streaks
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-08-29 05:06:35 UTC</sub>
+  <sub>Last updated: 2026-08-30 02:57:24 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
