@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-148_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-82.0%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-149_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-82.1%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,16 +15,16 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,170,080 |
-| **Total Solved** | **148** / 4,042 |
-| **Acceptance Rate** | **82.0%** |
+| **Ranking** | #1,163,368 |
+| **Total Solved** | **149** / 4,042 |
+| **Acceptance Rate** | **82.1%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
 | 🟢 Easy | 52 | `█░░░░░░░░░░░░░░░░░░░` 52/962 (5.4%) |
-| 🟡 Medium | 69 | `░░░░░░░░░░░░░░░░░░░░` 69/2,109 (3.3%) |
+| 🟡 Medium | 70 | `░░░░░░░░░░░░░░░░░░░░` 70/2,109 (3.3%) |
 | 🔴 Hard | 27 | `░░░░░░░░░░░░░░░░░░░░` 27/971 (2.8%) |
 
 ## Activity & Streaks
@@ -32,7 +32,7 @@
 | Metric | Value |
 |--------|-------|
 | **Current Streak** | **88** days |
-| **Total Active Days** | **112** |
+| **Total Active Days** | **113** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Python | Sep 02, 2026 |
-| 2 | [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Python | Sep 01, 2026 |
-| 3 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Python | Aug 31, 2026 |
-| 4 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Python | Aug 30, 2026 |
-| 5 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Python | Aug 29, 2026 |
+| 1 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Python | Sep 03, 2026 |
+| 2 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Python | Sep 02, 2026 |
+| 3 | [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Python | Sep 01, 2026 |
+| 4 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Python | Aug 31, 2026 |
+| 5 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Python | Aug 30, 2026 |
 
 ## Badges
 
@@ -70,7 +70,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-09-03 02:27:45 UTC</sub>
+  <sub>Last updated: 2026-09-04 02:23:04 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
