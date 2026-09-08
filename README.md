@@ -4,7 +4,7 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-152_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Solved-153_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
   <img src="https://img.shields.io/badge/Acceptance-82.4%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
@@ -15,8 +15,8 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,142,002 |
-| **Total Solved** | **152** / 4,046 |
+| **Ranking** | #1,134,541 |
+| **Total Solved** | **153** / 4,046 |
 | **Acceptance Rate** | **82.4%** |
 
 ## Problem Solving Progress
@@ -25,14 +25,14 @@
 |------------|--------|----------|
 | 🟢 Easy | 53 | `█░░░░░░░░░░░░░░░░░░░` 53/963 (5.5%) |
 | 🟡 Medium | 71 | `░░░░░░░░░░░░░░░░░░░░` 71/2,111 (3.4%) |
-| 🔴 Hard | 28 | `░░░░░░░░░░░░░░░░░░░░` 28/972 (2.9%) |
+| 🔴 Hard | 29 | `░░░░░░░░░░░░░░░░░░░░` 29/972 (3.0%) |
 
 ## Activity & Streaks
 
 | Metric | Value |
 |--------|-------|
 | **Current Streak** | **88** days |
-| **Total Active Days** | **116** |
+| **Total Active Days** | **117** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Python | Sep 06, 2026 |
-| 2 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Python | Sep 05, 2026 |
-| 3 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Python | Sep 04, 2026 |
-| 4 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Python | Sep 03, 2026 |
-| 5 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Python | Sep 02, 2026 |
+| 1 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Python | Sep 07, 2026 |
+| 2 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Python | Sep 06, 2026 |
+| 3 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Python | Sep 05, 2026 |
+| 4 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Python | Sep 04, 2026 |
+| 5 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Python | Sep 03, 2026 |
 
 ## Badges
 
@@ -70,7 +70,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-09-07 02:17:15 UTC</sub>
+  <sub>Last updated: 2026-09-08 02:29:36 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
