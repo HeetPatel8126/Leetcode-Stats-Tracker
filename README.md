@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-157_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-82.8%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-158_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-82.9%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,24 +15,24 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,107,760 |
-| **Total Solved** | **157** / 4,047 |
-| **Acceptance Rate** | **82.8%** |
+| **Ranking** | #1,101,182 |
+| **Total Solved** | **158** / 4,051 |
+| **Acceptance Rate** | **82.9%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 55 | `█░░░░░░░░░░░░░░░░░░░` 55/963 (5.7%) |
-| 🟡 Medium | 73 | `░░░░░░░░░░░░░░░░░░░░` 73/2,111 (3.5%) |
-| 🔴 Hard | 29 | `░░░░░░░░░░░░░░░░░░░░` 29/973 (3.0%) |
+| 🟢 Easy | 55 | `█░░░░░░░░░░░░░░░░░░░` 55/964 (5.7%) |
+| 🟡 Medium | 73 | `░░░░░░░░░░░░░░░░░░░░` 73/2,113 (3.5%) |
+| 🔴 Hard | 30 | `░░░░░░░░░░░░░░░░░░░░` 30/974 (3.1%) |
 
 ## Activity & Streaks
 
 | Metric | Value |
 |--------|-------|
 | **Current Streak** | **88** days |
-| **Total Active Days** | **119** |
+| **Total Active Days** | **120** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Python | Sep 11, 2026 |
-| 2 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Python | Sep 10, 2026 |
-| 3 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Python | Sep 09, 2026 |
-| 4 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Python | Sep 09, 2026 |
-| 5 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Python | Sep 07, 2026 |
+| 1 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Python | Sep 12, 2026 |
+| 2 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Python | Sep 11, 2026 |
+| 3 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Python | Sep 10, 2026 |
+| 4 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Python | Sep 09, 2026 |
+| 5 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Python | Sep 09, 2026 |
 
 ## Badges
 
@@ -70,7 +70,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-09-12 02:34:23 UTC</sub>
+  <sub>Last updated: 2026-09-13 02:33:23 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
