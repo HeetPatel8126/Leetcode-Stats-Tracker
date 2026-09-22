@@ -4,8 +4,8 @@
   <a href="https://leetcode.com/HeetPatel8126/">
     <img src="https://img.shields.io/badge/LeetCode-HeetPatel8126-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-165_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Acceptance-83.4%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Solved-170_Problems-00b8a3?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Acceptance-83.8%25-2d9bf0?style=for-the-badge" alt="Acceptance Rate"/>
 </p>
 
 ---
@@ -15,16 +15,16 @@
 | Metric | Value |
 |--------|-------|
 | **Username** | [HeetPatel8126](https://leetcode.com/HeetPatel8126/) |
-| **Ranking** | #1,052,171 |
-| **Total Solved** | **165** / 4,059 |
-| **Acceptance Rate** | **83.4%** |
+| **Ranking** | #1,020,623 |
+| **Total Solved** | **170** / 4,059 |
+| **Acceptance Rate** | **83.8%** |
 
 ## Problem Solving Progress
 
 | Difficulty | Solved | Progress |
 |------------|--------|----------|
-| 🟢 Easy | 56 | `█░░░░░░░░░░░░░░░░░░░` 56/966 (5.8%) |
-| 🟡 Medium | 77 | `░░░░░░░░░░░░░░░░░░░░` 77/2,117 (3.6%) |
+| 🟢 Easy | 58 | `█░░░░░░░░░░░░░░░░░░░` 58/966 (6.0%) |
+| 🟡 Medium | 80 | `░░░░░░░░░░░░░░░░░░░░` 80/2,117 (3.8%) |
 | 🔴 Hard | 32 | `░░░░░░░░░░░░░░░░░░░░` 32/976 (3.3%) |
 
 ## Activity & Streaks
@@ -32,7 +32,7 @@
 | Metric | Value |
 |--------|-------|
 | **Current Streak** | **88** days |
-| **Total Active Days** | **126** |
+| **Total Active Days** | **127** |
 
 ## Contest Statistics
 
@@ -46,11 +46,11 @@
 
 | # | Problem | Language | Date |
 |---|---------|----------|------|
-| 1 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Python | Sep 19, 2026 |
-| 2 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Python | Sep 19, 2026 |
-| 3 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Python | Sep 17, 2026 |
-| 4 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Python | Sep 16, 2026 |
-| 5 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Python | Sep 15, 2026 |
+| 1 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Python | Sep 21, 2026 |
+| 2 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Python | Sep 21, 2026 |
+| 3 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Python | Sep 21, 2026 |
+| 4 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Python | Sep 21, 2026 |
+| 5 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Python | Sep 21, 2026 |
 
 ## Badges
 
@@ -70,7 +70,7 @@
 
 <p align="center">
   <i>Auto-updated daily via GitHub Actions</i><br>
-  <sub>Last updated: 2026-09-21 02:46:06 UTC</sub>
+  <sub>Last updated: 2026-09-22 02:46:58 UTC</sub>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
